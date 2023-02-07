@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheMovie-DB</string>
+
+    <!--  HomeScreen  -->
+    <string name="peliculas_populares">Películas populares</string>
+
+    <!-- MovieDetailScreen   -->
+    <string name="detalle_pelicula">Información de la película</string>
+    <string name="resena">Reseña:</string>
+    <string name="lenguaje">Lenguaje:</string>
+    <string name="fecha_estreno">Fecha estreno:</string>
+    <string name="calificacion">Calificación:</string>
+    <string name="calificacion_resultado">%1$s / 10</string>
+
+</resources>
